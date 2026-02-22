@@ -1,5 +1,4 @@
 ### Hi there 👋
-# Im a Computer science student
 
 <!--
 **Benjamin-Machlev/Benjamin-Machlev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
